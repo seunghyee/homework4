@@ -3,8 +3,8 @@
 // 구조체 정의: student
 struct student {
     char lastName[13];  // 성을 저장하는 배열. 13바이트를 차지
-    int studentId;      // 학번을 저장하는 변수. 
-    short grade;        // 학점을 저장하는 변수. 
+    int studentId;      // 학번을 저장하는 변수
+    short grade;        // 학점을 저장하는 변수
 };
 
 // main 함수 시작
